@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksinghcse" /> </p>
 
-- 🔭 I’m currently working on **tolearners**
+- 🔭 I’m currently working at **tolearners**
 
 - 🌱 I’m currently learning **Java Script**
 
